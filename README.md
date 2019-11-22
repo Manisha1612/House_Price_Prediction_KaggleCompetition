@@ -22,5 +22,5 @@ steps Followed :
   iv) Variable Transformation - (Its a process to make data meaningful - Feature Engineering)
 4. Visualize the data and find the dependency of the variable.
 5. Data is ready then apply the Prediction Model (Regression Model- Random Forest, XG Boost)
-6. Accuracy : check it by MSE (Mean Square Error) MSRE(Mean Square Root Error)
+6. Accuracy : check it by MSE (Mean Square Error) MRSE(Mean Root Square Error)
 
